@@ -1,39 +1,17 @@
 ---
 layout: home
-title: "Jack Jeffries Lab"
+title: "Jeffries Lab"
 permalink: /
-author_profile: true
 ---
 
-# Jack Jeffries Lab @ UCL
+## Engineering biocatalytic systems for sustainable chemical manufacturing
 
-Welcome to our lab. We work at the interface of **biocatalysis**, **metagenomic enzyme discovery**, and **biocatalyst engineering** for sustainable chemical manufacturing.
+We develop enzyme-based technologies that enable efficient, scalable, and sustainable chemical processes, spanning biocatalysis, enzyme immobilisation, and flow bioprocess engineering.
 
----
+### Research themes
+- Biocatalysis and enzyme engineering  
+- Enzyme immobilisation and materials  
+- Flow bioprocessing and reactor design  
 
-## Principal Investigator
-
-### **Dr Jack Jeffries**
-Lecturer in Biocatalysis and Biocatalyst Engineering, UCL
-
-[UCL Profile](https://profiles.ucl.ac.uk/37542-jack-jeffries)
-
----
-
-## Researchers
-
-### **Researcher Name**
-*Role: MSc / PhD / Postdoc*
-
-Short description of their project.
-
----
-
-### **Researcher Name 2**
-*Role: MSc / PhD / Postdoc*
-
-Short description of their project.
-
----
-
-(Add one section per person. You can paste repeat blocks as needed.)
+[Meet the team →](/people/)  
+[View publications →](/publications/)
